@@ -1,2 +1,4 @@
 # IoT-band
-    - [name=ZoneTwelve]
+## Member:
+- [name=ZoneTwelve]
+- [name=Onebone]
